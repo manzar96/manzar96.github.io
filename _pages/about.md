@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a  first year PhD student at [IST](https://www.lamsade.dauphine.fr/), Université Paris-Dauphine, advised by Prof. [Andre Martins](https://www.lamsade.dauphine.fr/~mlampis/index.html).
+I am a  first year PhD student at [Sardine Lab](https://sardine-lab.github.io/), Instituto Superior Tecnico, advised by Prof. [Andre Martins](https://andre-martins.github.io/).
 My research interests are focused on Natural Language Generation, Evaluation Metrics and Explainability.
 Prior to that, I received a BSc & MSc. in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the National Technical University of Athens <!-- working with Prof. [Alex Potamianos](https://www.ece.ntua.gr/en/staff/79). -->
 
