@@ -54,6 +54,7 @@ Faster algorithms for k-subset sum and variations.
 *Journal of Combinatorial Optimization*.
 [doi:10.1007/s10878-022-00928-0](https://doi.org/10.1007/s10878-022-00928-0).
 -->
+
 <!--
 ## 2022
 ---
@@ -66,7 +67,7 @@ Approximating subset sum ratio via subset sum computations.
 
 ## 2021
 ---
-Zaranis E., Paraskevopoulos G., Katsamanis A., and Manolis Vasilakis.
+Zaranis E., Paraskevopoulos G., Katsamanis A., Potamianos A.
 EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments
 *ArxiV*.
 [Link](https://doi.org/10.48550/arXiv.2111.00310).
